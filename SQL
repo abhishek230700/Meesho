@@ -1,6 +1,4 @@
 SQL-Structure query language
 CRUD operation
-Create ---- Create a database 
-Read ----- Read(select)
-Update ---- Update the data base
-Delete ---- Delete the database           Bhushan Pol
+creating databases,Read database, Updating databases, Deleting databases.- abhishek
+
